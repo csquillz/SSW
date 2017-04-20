@@ -8,9 +8,12 @@ def home():
 
     return render_template('structure.html')
 
+@app.route('/hobby1')
+
 def hobby1():
 
     return render_template('hobby1.html')
+
 
 if __name__ == '__main__':
 
