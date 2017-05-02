@@ -71,6 +71,12 @@ def hobby10():
 
     return render_template('hobby10.html')
 
+@app.route('/contact_us')
+
+def contact_us():
+
+    return render_template('contact_us.html')
+
 # Load default config and override config from an environment variable
 app.config.update(dict(
     DATABASE=os.path.join(app.root_path, 'flaskr.db'),
