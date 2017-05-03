@@ -1,4 +1,9 @@
-# A very simple hobby recommender system.
+'''
+Date due: April 14, 2017
+@author: Laura Oliveto and Caroline Squillante
+I pledge my honor that I have abided by the Stevens Honor System
+'''
+# A very simple music recommender system.
 from cs115 import map
 
 PREF_FILE = "musicrecplus.txt"
