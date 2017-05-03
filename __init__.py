@@ -77,5 +77,12 @@ def contact_us():
 
     return render_template('contact_us.html')
 
+
+@app.route('/quiz')
+
+def quiz():
+
+    return hobbyrecomender.py
+
 if __name__ == '__main__':
     app.run(debug=True)
