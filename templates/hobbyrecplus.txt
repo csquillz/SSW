@@ -1,0 +1,11 @@
+Caroline Squillante:Baking,Cooking,Painting,Photography
+User1:Baking,Cooking,Crafting,Painting
+User2:Crafting,Crocheting,Embroidery,Knitting,Painting,Sewing
+User3:Baking,Crafting,Drawing,Paiting,Pottery,Sculpting
+User4:Crafting,Painting,Papier-mache,Pottery,Sculpting,Woodworking
+User5:Books,Fiction,Knitting,Non-fiction,Reading,Sewing
+User6:Brain Teasers,Cooking,Crafting,Photography,Puzzles,Woodworking
+User7:Cycling,Fishing,Hiking,Running,Sport
+User8:Coaching,Cycling,Hiking,Running,Sports
+User9:Hiking,Painting,Photography
+User10:Baking,Gardening,Photography,Plants,Sewing

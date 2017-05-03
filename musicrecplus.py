@@ -1,7 +1,7 @@
 # A very simple hobby recommender system.
 from cs115 import map
 
-PREF_FILE = "musicrecplus.txt"
+PREF_FILE = "hobbyrecplus.txt"
 userDict = {}
 
 def loadUsers(fileName):
