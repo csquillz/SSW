@@ -1,4 +1,4 @@
-Caroline Squillante:Baking,Cooking,Painting,Photography
+Caroline Squillante:Baking,Cooking,Hiking,Painting,Photography
 User1:Baking,Cooking,Crafting,Painting
 User2:Crafting,Crocheting,Embroidery,Knitting,Painting,Sewing
 User3:Baking,Crafting,Drawing,Paiting,Pottery,Sculpting
